@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "85Ga6khGD0whMs6eGoJmvziBz4DU56351eEr9qBP016ZNdsCbzAlzFAoIvZA6QbVTae957kRpeHbiTA9FfPqCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Christian\\source\\repos\\EjemploAutentificacionNETCORE\\EjemploAutentificacionNETCORE.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christian\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
